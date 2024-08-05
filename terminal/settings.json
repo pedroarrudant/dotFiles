@@ -62,7 +62,7 @@
                 "commandline": "%SystemRoot%\\System32\\cmd.exe",
                 "font": 
                 {
-                    "face": "Cascadia Code PL"
+                    "face": "FiraCode Nerd Font"
                 },
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
@@ -80,7 +80,7 @@
                 "commandline": "%USERPROFILE%/AppData/Local/Programs/Git/bin/bash.exe -l -i",
                 "font": 
                 {
-                    "face": "Cascadia Code PL"
+                    "face": "FiraCode Nerd Font"
                 },
                 "guid": "{00000000-0000-0000-ba54-000000000002}",
                 "icon": "%USERPROFILE%/AppData/Local/Programs/Git/mingw64/share/git/git-for-windows.ico",
@@ -135,7 +135,7 @@
                 "cursorShape": "bar",
                 "font": 
                 {
-                    "face": "Cascadia Code PL",
+                    "face": "FiraCode Nerd Font",
                     "size": 12.0
                 },
                 "guid": "{634f972d-523d-4dda-8f4f-1c3e92dbe0cd}",
