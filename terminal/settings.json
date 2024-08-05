@@ -77,7 +77,7 @@
                 "tabColor": "#0400ff"
             },
             {
-                "commandline": "%USERPROFILE%/AppData/Local/Programs/Git/bin/bash.exe -l -i",
+                "commandline": "%PROGRAMFILES%/Git/bin/bash.exe -i -l",
                 "font": 
                 {
                     "face": "FiraCode Nerd Font"
